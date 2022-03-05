@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="217e697f-c176-4cb7-8a87-aaecfb81b527" name="Changes" comment="Project is succesfully setup and created project file structure">
-      <change afterPath="$PROJECT_DIR$/papple/src/assets/images/logo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papple/src/components/Header/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papple/src/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papple/src/assets/images/telephones/apple watch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papple/src/assets/images/telephones/ipad pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papple/src/assets/images/telephones/ipad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papple/src/assets/images/telephones/iphone13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papple/src/assets/images/telephones/watch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papple/src/components/Hero/hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papple/src/components/Hero/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papple/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/papple/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/papple/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/papple/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papple/src/components/Header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/papple/src/components/Header/header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/papple/src/assets/images/logo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/papple/src/assets/images/telephones" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\-\IdeaProjects\PAPPLE\papple\src\assets\images\telephones" />
       <recent name="C:\Users\-\IdeaProjects\PAPPLE\papple\src\assets\images\logo" />
     </key>
   </component>
@@ -65,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1646467830821</updated>
       <workItem from="1646467832254" duration="6190000" />
+      <workItem from="1646504084736" duration="808000" />
+      <workItem from="1646504957591" duration="4232000" />
     </task>
     <task id="LOCAL-00001" summary="Project is succesfully setup and created project file structure">
       <created>1646468485254</created>
@@ -89,6 +96,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project is succesfully setup and created project file structure" />

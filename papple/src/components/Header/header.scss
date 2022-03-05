@@ -6,7 +6,7 @@
   align-items: center;
  .header__logo {
    img {
-     width: 50%
+     width: 40%
    }
  }
 .topnav {
@@ -26,10 +26,6 @@
    background-color: #ddd;
    color: black;
  }
-  a.active {
-    background-color: black;
-    color: white;
-  }
   .icon {
     display: none;
   }
@@ -59,8 +55,13 @@
   .rightnav {
     margin-bottom: 2%;
     margin-left: 2%;
+    display: flex;
     a {
       padding-right: 5%;
+      margin-right: 20%;
+      i {
+        color: black;
+      }
     }
   }
 }
